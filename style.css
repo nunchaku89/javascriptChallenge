@@ -1,0 +1,47 @@
+body {
+  color: aliceblue;
+}
+.hidden {
+  display: none;
+}
+
+#weather {
+  text-align: right;
+}
+
+#weather p {
+  margin-bottom: 0%;
+}
+
+h1,
+#todo-form,
+#todo-list,
+#clock,
+#quote {
+  text-align: center;
+}
+
+h2 {
+  font-size: xx-large;
+}
+
+input {
+  color: aliceblue;
+  font-size: large;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: aliceblue;
+  background: transparent;
+  width: 10%;
+}
+
+li {
+  font-size: large;
+}
+
+button {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
